@@ -1,12 +1,15 @@
-#C Primer Plus, 6th Edition
+# C Primer Plus, 6th Edition
 
 [C Primer Plus, 6th Edition](http://www.informit.com/store/c-primer-plus-9780321928429)
+
 [C Primer Plus, 6th Edition_code](http://www.informit.com/content/images/9780321928429/downloads/9780321928429_CPrimerPlus6E_code.zip)
+
 [C Primer Plus, 6th Edition ProgrammingExerciseAnswers](http://www.informit.com/content/images/9780321928429/downloads/9780321928429_ProgrammingExerciseAnswers_Selected.pdf)
 
 
 
-##用Mac终端编写、编译C程序的实例
+## 用Mac终端编写、编译C程序的实例
+
 步骤：创建C文件、用Vim编写C程序、编译C程序文件、执行编译后生成的.out文件。
 
 说明：`$:`表示Mac终端
