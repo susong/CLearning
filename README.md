@@ -2,7 +2,8 @@
 C语言学习
 
 
-##学习资料
+## 学习资料
+
 [C 参考手册](http://zh.cppreference.com/w/c)
 
 [X分钟速成C](https://learnxinyminutes.com/docs/zh-cn/c-cn/)
